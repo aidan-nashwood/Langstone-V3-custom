@@ -204,7 +204,7 @@ int lastSquelchGate=0;
 int rxFilterLow;
 int rxFilterHigh;
 
-int bands24 = 0;
+int bands24 = 1;
 
 int screenrotate = 0;
 
