@@ -86,7 +86,7 @@ chmod +x installPluto.sh
 ```
 ## For the HackRF One
 ```sh
-wget https://raw.githubusercontent.com/g4eml/Langstone-V3/master/installHack.sh
+wget https://raw.githubusercontent.com/aidan-nashwood/Langstone-V3-custom/master/installHack.sh
 chmod +x installHack.sh
 ./installHack.sh
 ```
