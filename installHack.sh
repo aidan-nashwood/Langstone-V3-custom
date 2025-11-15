@@ -89,7 +89,7 @@ echo "####################################"
 echo "##     Installing Langstone-V3    ##"
 echo "####################################"
 
-git clone https://github.com/g4eml/Langstone-V3.git
+git clone https://github.com/aidan.nashwood/Langstone-V3-custom.git
 mv Langstone-V3 Langstone
 cd Langstone
 chmod +x build
