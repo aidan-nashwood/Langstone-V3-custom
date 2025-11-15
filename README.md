@@ -1,5 +1,10 @@
 # Langstone-V3 SDR Transceiver by Colin Durbridge G4EML
 
+This repo contains my personal adjustments and customisations
+For HackRF
+- place in 24 band mode
+- add AU HF bands
+
 # Currently supports the Adalm Pluto or the HackRF One, the Raspberry Pi 5 or Pi 4  and the official 7" V1 or V2 LCD Displays.
 
 This is an experimental project to produce a simple VHF, UHF and Microwave SDR Transceiver operating on SSB CW and FM.
